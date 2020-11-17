@@ -4,25 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "d3f9a55be993df9f",
+        "id": "8ceaec40cb4d069b",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "svm.md",
+            "file": "SVM脉络.md",
             "mode": "source"
           }
         },
-        "group": "6f7655a65e4d15ab"
+        "group": "89a53b996e1fadab"
       },
       {
-        "id": "0a111173ec11ca8c",
+        "id": "17471f79661aa982",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SVM脉络.md",
+            "mode": "preview"
+          }
+        },
+        "group": "89a53b996e1fadab"
+      },
+      {
+        "id": "1ec38ba0c19dac1e",
         "type": "leaf",
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "svm.md",
+            "file": "SVM脉络.md",
             "options": {
               "search": "",
               "localJumps": 1,
@@ -44,7 +56,7 @@
             }
           }
         },
-        "group": "6f7655a65e4d15ab"
+        "group": "89a53b996e1fadab"
       }
     ],
     "direction": "vertical"
@@ -71,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "tag:#SVM优化"
               }
             }
           }
@@ -79,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 226.5
   },
   "right": {
     "id": "d03809f30ec06521",
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "svm.md"
+                "file": "SVM脉络.md"
               }
             }
           },
@@ -107,16 +119,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "SVM脉络.md",
+    "SVM-main-topic.md",
+    "SVM基本型.md",
+    "拉格朗日乘子法.md",
+    "SMO 算法.md",
+    "矩阵求导.md",
+    "svm-main-topic.md",
+    "【机器学习】支持向量机 SVM（非常详细） - 知乎.md",
     "svm.md",
-    "求导.md",
-    "ffff.md",
-    "Untitled.md"
+    "求导.md"
   ]
 }
