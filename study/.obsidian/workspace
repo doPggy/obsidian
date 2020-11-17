@@ -98,13 +98,20 @@
                 "file": "svm.md"
               }
             }
+          },
+          {
+            "id": "a894ae495cc1e55c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
     "svm.md",
