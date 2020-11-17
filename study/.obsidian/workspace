@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SVM优化"
+                "query": ""
               }
             }
           }
@@ -129,11 +129,11 @@
   },
   "lastOpenFiles": [
     "SVM脉络.md",
+    "拉格朗日乘子法.md",
     "SMO 算法.md",
+    "矩阵求导.md",
     "SVM-main-topic.md",
     "SVM基本型.md",
-    "拉格朗日乘子法.md",
-    "矩阵求导.md",
     "svm-main-topic.md",
     "【机器学习】支持向量机 SVM（非常详细） - 知乎.md",
     "svm.md",
