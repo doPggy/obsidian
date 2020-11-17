@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "af12e1281df1d83e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3f9a55be993df9f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "svm.md",
+            "mode": "source"
+          }
+        },
+        "group": "6f7655a65e4d15ab"
+      },
+      {
+        "id": "0a111173ec11ca8c",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "svm.md",
+            "options": {
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1
+            }
+          }
+        },
+        "group": "6f7655a65e4d15ab"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0535a60c21e944b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "684dec77a9458186",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9f28e569746b1a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "86f7fe62f658b722",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d03809f30ec06521",
+    "type": "split",
+    "children": [
+      {
+        "id": "583f69b07971b53e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58ea55732e7efe94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "svm.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "svm.md",
+    "求导.md",
+    "ffff.md",
+    "Untitled.md"
+  ]
+}
