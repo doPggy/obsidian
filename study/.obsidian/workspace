@@ -6,12 +6,10 @@
       {
         "id": "8ceaec40cb4d069b",
         "type": "leaf",
+        "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SVM 学习过程.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "89a53b996e1fadab"
       },
@@ -21,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SVM 学习过程.md",
+            "file": "矩阵求导.md",
             "mode": "preview"
           }
         },
@@ -30,11 +28,10 @@
       {
         "id": "1ec38ba0c19dac1e",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "SVM 学习过程.md",
+            "file": "矩阵求导.md",
             "options": {
               "search": "",
               "localJumps": 1,
@@ -106,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "SVM 学习过程.md"
-              }
+              "state": {}
             }
           },
           {
@@ -124,16 +119,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "矩阵求导.md",
+    "拉格朗日乘子法.md",
+    "SMO 算法.md",
     "SVM 学习过程.md",
     "SVM脉络.md",
     "Untitled.md",
-    "拉格朗日乘子法.md",
-    "SMO 算法.md",
-    "矩阵求导.md",
     "SVM-main-topic.md",
     "SVM基本型.md",
     "svm-main-topic.md",

@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "4d21338618583823",
+    "type": "split",
+    "children": [
+      {
+        "id": "5132ec80f99db904",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "学前需要.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "86195c690e7cf3ef",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "第 1 课.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0175b3451a97211d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c7fb34bd2f4e630",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfb823d780994a39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "46d6ee668e735b3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 153
+  },
+  "right": {
+    "id": "57aaef48587680f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9da9af9aef556c63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3a8eb09257479c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "学前需要.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "学前需要.md",
+    "第 1 课.md",
+    "Untitled.md"
+  ]
+}
