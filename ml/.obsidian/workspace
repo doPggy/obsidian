@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5132ec80f99db904",
+        "id": "0309944fe9da41da",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "学前需要.md",
+            "file": "all of statistics - 1-概率.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "86195c690e7cf3ef",
+        "id": "c5cae9442ca0daff",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "第 1 课.md",
+            "file": "all of statistics - 1-概率.md",
             "mode": "preview"
           }
         }
@@ -59,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 153
+    "width": 228
   },
   "right": {
     "id": "57aaef48587680f5",
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学前需要.md"
+                "file": "all of statistics - 1-概率.md"
               }
             }
           }
@@ -87,8 +87,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "all of statistics - 1-概率.md",
     "学前需要.md",
-    "第 1 课.md",
-    "Untitled.md"
+    "all of statistics.md",
+    "Untitled.md",
+    "第 1 课.md"
   ]
 }
