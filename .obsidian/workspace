@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "64eca38cb0b86728",
+    "type": "split",
+    "children": [
+      {
+        "id": "f012a8e494dae186",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ml/all of statistics - 1-概率.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5d80218e8df69338",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ml/all of statistics - 1-概率.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6f379e7513db2d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0083799e7faee620",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05f3f5256ba332b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2003429b398cb966",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc001cdcd1a4b69e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c44d21d6798ff9f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14a3cf62c5f947d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ml/all of statistics - 1-概率.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "ml/all of statistics - 1-概率.md",
+    "ml/第 1 课.md"
+  ]
+}
