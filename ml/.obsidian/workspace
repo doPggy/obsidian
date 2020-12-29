@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0309944fe9da41da",
+        "id": "9ddcd0e7a271e485",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chap02.md",
+            "file": "all of statistics - 2 - 随机变量.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "0f2f223ba5f7807f",
+        "id": "44fe36cb8df473e2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chap02.md",
+            "file": "all of statistics - 2 - 随机变量.md",
             "mode": "preview"
           }
         }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chap02.md"
+                "file": "all of statistics - 2 - 随机变量.md"
               }
             }
           }
@@ -87,9 +87,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "chap02.md",
     "all of statistics - 2 - 随机变量.md",
+    "all of statistics - 3.md",
     "Untitled.md",
+    "c/c 和指针第三章.md",
+    "c/c 和指针第五章.md",
+    "chap02.md",
     "all of statistics - 1-概率.md",
     "学前需要.md",
     "all of statistics.md",
