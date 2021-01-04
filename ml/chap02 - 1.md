@@ -85,7 +85,7 @@ cpdef 定义了两个函数，一个 python 能看到，cython 能看到，利�
 cimport 和 import：numpy 有 c 实现，如果想用，就用 cimport。
 
 python -> cython -> c
-
+[]()
 所以资源分配不要跨阶层释放，所以在 cython 或者 python 生成一些内存，例如 numpy。
 
 python 多线程加速要用 cython 到 c++ 中。
