@@ -1,33 +1,30 @@
 {
   "main": {
-    "id": "64eca38cb0b86728",
+    "id": "3c1ce5404f3086da",
     "type": "split",
     "children": [
       {
-        "id": "13c4fa9f467291b9",
+        "id": "b6a0fc4b32907c90",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ml/chap03 - 1.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c6f379e7513db2d4",
+    "id": "81f64dfdb7495026",
     "type": "split",
     "children": [
       {
-        "id": "0083799e7faee620",
+        "id": "a3663a46ef10446b",
         "type": "tabs",
         "children": [
           {
-            "id": "05f3f5256ba332b0",
+            "id": "15fd392f6afae062",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +32,7 @@
             }
           },
           {
-            "id": "2003429b398cb966",
+            "id": "6bd6e1bc3b278fae",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +53,19 @@
     "width": 300
   },
   "right": {
-    "id": "bc001cdcd1a4b69e",
+    "id": "d8cc24ea5fbbcada",
     "type": "split",
     "children": [
       {
-        "id": "c44d21d6798ff9f8",
+        "id": "dd6ce340919b70ee",
         "type": "tabs",
         "children": [
           {
-            "id": "14a3cf62c5f947d9",
+            "id": "8308db348e0bd9b0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ml/chap03 - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,16 +81,5 @@
     "width": 300,
     "collapsed": true
   },
-  "lastOpenFiles": [
-    "ml/chap03 - 1.md",
-    "eng/Tensor and Differentials.md",
-    "ml/Untitled.md",
-    "Untitled.md",
-    "eng/Untitled.md",
-    "output/python 代码加速考.md",
-    "ml/加餐概率论.md",
-    "ml/chap02 - sum.md",
-    "ml/mtp/1.md",
-    "ml/mtp/Untitled.md"
-  ]
+  "lastOpenFiles": []
 }
