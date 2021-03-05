@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "13c4fa9f467291b9",
+        "id": "39f7fee8b9379a8d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ml/chap0801.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "2a39bbfd97ce3956",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ml/chap03 - 1.md",
+            "file": "ml/chap0801.md",
             "mode": "preview"
           }
         }
@@ -53,7 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216
   },
   "right": {
     "id": "bc001cdcd1a4b69e",
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ml/chap03 - 1.md",
+                "file": "ml/chap0801.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "ml/chap03 - 1.md",
-    "eng/Tensor and Differentials.md",
+    "ml/chap0801.md",
+    "ml/chap06-2-review.md",
     "ml/Untitled.md",
-    "Untitled.md",
-    "eng/Untitled.md",
-    "output/python 代码加速考.md",
-    "ml/加餐概率论.md",
-    "ml/chap02 - sum.md",
-    "ml/mtp/1.md",
-    "ml/mtp/Untitled.md"
+    "ml/regression tree.md",
+    "ml/准备路线.md",
+    "ml/chap06-1.md",
+    "ml/chap06-1-review.md",
+    "ml/chap05-review.md",
+    "output/个人检讨与机器学习两种建模角度.md",
+    "output/python 代码加速考.md"
   ]
 }
